@@ -7,6 +7,6 @@ public class TestClass {
 
 		System.out.println("TeStClass devloper 02");
 
-		System.out.println("TeStClass devloper 01");
+		System.out.println("TeStClass devloper 01:: asdf");
 	}
 }

@@ -6,4 +6,9 @@ public class TechMClass {
 
 		System.out.println("First day induction call");
 	}
+	public void projectAllocation() {
+		
+		System.out.println("Project allocation  call");
+	}
+	
 }
